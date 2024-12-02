@@ -18,7 +18,12 @@
 
 3. Run Project:
    ```bash
-   flutter Run 
+   flutter Run
+   
+4. Run Project for web:
+   ```bash
+   flutter run -d chrome --web-renderer html
+
 
 # IOS Video:
 
