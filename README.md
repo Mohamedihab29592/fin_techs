@@ -3,19 +3,19 @@
 
 ## Getting Started
 
-Steps to Run the Project:
+# Steps to Run the Project:
 
-# git clone https://github.com/Mohamedihab29592/fin_techs.git
+ git clone https://github.com/Mohamedihab29592/fin_techs.git
 
-Navigate to the project directory:
+# Navigate to the project directory:
 
-# cd fin_techs
+ cd fin_techs
 
-Install dependencies:
+# Install dependencies:
 
-# flutter pub get
+ flutter pub get
 
-Run the app:
+# Run the app:
 
-#  flutter run
+  flutter run
 
