@@ -27,8 +27,10 @@
 
 # IOS Video:
 
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/b7958261-0a5f-4199-9304-46e4cea2aed5" controls width="80%"></video>
+</div>
 
-https://github.com/user-attachments/assets/b7958261-0a5f-4199-9304-46e4cea2aed5
 
 
 
