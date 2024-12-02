@@ -31,6 +31,12 @@
   <video src="https://github.com/user-attachments/assets/b7958261-0a5f-4199-9304-46e4cea2aed5" controls width="80%"></video>
 </div>
 
+# Android Video:
+
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/55db6142-5b94-419e-a6d1-ee75cb18f87e" controls width="80%"></video>
+</div>
+
 
 
 
