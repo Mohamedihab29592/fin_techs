@@ -1,17 +1,21 @@
 # fin_techs
 
-A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Steps to Run the Project:
 
-A few resources to get you started if this is your first Flutter project:
+# git clone https://github.com/Mohamedihab29592/fin_techs.git
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Navigate to the project directory:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# fin_techs
+# cd fin_techs
+
+Install dependencies:
+
+# flutter pub get
+
+Run the app:
+
+#  flutter run
+
