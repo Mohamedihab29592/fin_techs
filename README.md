@@ -1,21 +1,29 @@
 # fin_techs
 
 
-## Getting Started
+## 🚀 Getting Started
 
-# Steps to Run the Project:
+### Prerequisites
+- Install **Flutter SDK**
+- Use **Android Studio** or **VS Code**
+- Set up a **Firebase Project**
+- Obtain API Keys for:
+  - Gemini
+  - Spoonacular
+  - Pexels
 
- git clone https://github.com/Mohamedihab29592/fin_techs.git
+### Installation Steps
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Mohamedihab29592/fin_techs.git
+)
+   ```
+2. Install dependencies:
+   ```bash
+   flutter pub get
+)
+   ```
 
-# Navigate to the project directory:
-
- cd fin_techs
-
-# Install dependencies:
-
- flutter pub get
-
-# Run the app:
-
-  flutter run
-
+3. Run Project:
+   ```bash
+   flutter Run 
