@@ -3,14 +3,6 @@
 
 ## 🚀 Getting Started
 
-### Prerequisites
-- Install **Flutter SDK**
-- Use **Android Studio** or **VS Code**
-- Set up a **Firebase Project**
-- Obtain API Keys for:
-  - Gemini
-  - Spoonacular
-  - Pexels
 
 ### Installation Steps
 1. Clone the repository:
